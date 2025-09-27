@@ -158,3 +158,5 @@ async def chat_query(
 # command for executing the fast api
 # uvicorn api.main:app --port 8080 --reload    
 #uvicorn api.main:app --host 0.0.0.0 --port 8080 --reload
+
+#session_20250928_021311_d9e1a201
